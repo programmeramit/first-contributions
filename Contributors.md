@@ -50,6 +50,7 @@ chiu
 - Photon48 ;p
 - The Big Giro Bear was here!
 - [Tal]
+-[Amit Kumar](https://github.com/programmeramit/)
 - [Nivedh G Krishnan](https://github.com/NIV27e) 
 - [Isuru Adikaram](https://github.com/izuru775)
 - [Imran Hussain](https://github.com/full-StackNinja)
